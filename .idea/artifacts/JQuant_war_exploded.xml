@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JQuant:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JQuant_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JQuant/web/Web" />
+    </root>
+  </artifact>
+</component>
